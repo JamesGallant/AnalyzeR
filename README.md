@@ -1,6 +1,6 @@
 
 <div>
-  <img src = "inst\app\www\gifs", width = 90%>
+  <img src = "inst\app\www\gifs\intro.gif", width = 90%>
 </div>
 # Welcome to Fishalyzer data visualization
 
