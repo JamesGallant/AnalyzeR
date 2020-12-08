@@ -1,11 +1,6 @@
----
-title: "Fishalyzer: Data visualisation"
-author: "James Gallant <jamesgallant17@gmail.com>>"
-date: "08/12/2020"
-output: html_document
----
+
 <div>
-  <img src = "gifs/intro.gif", width = 90%>
+  <img src = "inst\app\www\gifs", width = 90%>
 </div>
 # Welcome to Fishalyzer data visualization
 
