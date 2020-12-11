@@ -6,13 +6,13 @@
 
 Fishalyzer is used in conjunction with the cell profiler output for automatic detection and intenity counting of zebrafish embryo's. This document explains how to use this software and alter it.
 
-## Using Fishalyzer
-
-Fishalyzer is hosted at [insert link here]() and can be accessed in the browser. 
-
-### Installing from a R package
+### Installing and running
 If you recieved this software as a tar.gz R package it can be installed in the following way
 
+First install the remotes package if you don't have it:
+```{r}
+install.packages("remotes")
+```
 ```r
 remotes::install_local(path_to_package)
 ```
